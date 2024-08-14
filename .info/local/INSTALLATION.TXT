@@ -1,0 +1,36 @@
+[Краткий Гайд по Установке на ПК] [RU]
+| 1 - Запустите установщик и проследуйте по всем страничкам до полной установки мода.
+|
+| [LESTA]
+| 1 - Или распакуйте нужный архив в удобное место.
+| 2 - Поместите файлы в \Tanks_Blitz\Data\ с заменой.
+| 3 - Поместите файлы в \Documents\TanksBlitz\packs\ если в игре активен Smart DLC.
+|
+| [WG]
+| 1 - Или распакуйте нужный архив в удобное место.
+| 2 - Поместите файлы в \World_of_Tanks_Blitz\Data\ с заменой.
+| 3 - Поместите файлы в %localappdata%\wotblitz\packs если в игре активен Smart DLC.
+|     Чтобы найти папку, нажмите WIN+R, и введите команду: %localappdata%\wotblitz\packs
+|
+[Краткий Гайд по Установке на АНДРОИД]
+| На андроид вшить в APK и если нужно поместить в кеш.
+| (Иногда работает просто поместив в кеш если активен Smart DLC)
+
+
+[A brief Guide to Installing on a PC] [EN]
+| 1 - Run the installer and follow all the pages until the mod is fully installed.
+|
+| [LESTA]
+| 1 - Or unzip the desired archive to a convenient location.
+| 2 - Place the files in \Tanks_Blitz\Data\ with the replacement.
+| 3 - Place the files in \Documents\TanksBlitz\packs\ if Smart DLC is active in the game.
+|
+| [WG]
+| 1 - Or unzip the desired archive to a convenient location.
+| 2 - Place the files in \World_of_Tanks_Blitz\Data\ with the replacement.
+| 3 - Place the files in %localappdata%\wotblitz\packs if Smart DLC is active in the game.
+|     To find the folder, press WIN+R, and enter the command: %localappdata%\wotblitz\packs
+|
+[Quick Installation Guide for ANDROID]
+| On android, sew it into the APK and if necessary put it in the cache.
+| (Sometimes it works by simply putting it in the cache if Smart DLC is active)
