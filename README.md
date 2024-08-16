@@ -7,7 +7,7 @@
 * Tanks Blitz [LESTA] Version: 11.2.0.924
 * WoT Blitz [WG] Version: 11.1.1.18
 
-![](.info/media/1.png)
+![](.info/media/2.png)
 
 ### Прочие инструкции
 * [Main Readme](.info/local/README.TXT)
