@@ -4,7 +4,7 @@
 * В данном репозитории лежат файлы для установщика и файлы с описанием структуры мода для ознакомления.
 * 
 * Dava Skin Swither Version: 1.0.1
-* Tanks Blitz [LESTA] Version: 11.2.0.924
+* Tanks Blitz [LESTA] Version: 11.2.1.926
 * WoT Blitz [WG] Version: 11.1.1.18
 
 ![](.info/media/2.png)
