@@ -5,7 +5,7 @@
 * 
 * Dava Skin Swither Version: 1.0.2
 * Tanks Blitz [LESTA] Version: 11.6.0.16
-* WoT Blitz [WG] Version: 11.4.0.8
+* WoT Blitz [WG] Version: 11.6.0.6
 
 ![](.info/media/2.png)
 
