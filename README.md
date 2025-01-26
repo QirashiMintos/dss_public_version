@@ -1,11 +1,9 @@
 # Dava Skin Swither
 ### Описание
-* Публичная версия мода Dava Skin Swither, который направлен на визуальную разблокировку камуфляжей.
-* В данном репозитории лежат файлы для установщика и файлы с описанием структуры мода для ознакомления.
-* 
-* Dava Skin Swither Version: 1.0.2
-* Tanks Blitz [LESTA] Version: 11.6.0.16
-* WoT Blitz [WG] Version: 11.6.0.6
+> [!NOTE]  
+> Dava Skin Swither Version: 1.0.2
+> Tanks Blitz [LESTA] Version: 11.6.0.16
+> WoT Blitz [WG] Version: 11.6.0.6
 
 ![](.info/media/2.png)
 
